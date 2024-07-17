@@ -1,8 +1,8 @@
 import styled from '@emotion/styled';
 
 export const Heading1 = styled.p`
-  font-family: HSSanTokki20-Regular, serif;
-  font-size: 1.5rem;
+  font-family: Bazzi, serif;
+  font-size: 1.8rem;
   margin: 10px;
   color: #e88ca6;
   white-space: pre-line;
@@ -15,7 +15,7 @@ export const Heading2 = styled.p`
 `;
 
 export const PointTitle = styled.p`
-  font-family: HSSanTokki20-Regular, serif;
+  font-family: Bazzi, serif;
   line-height: 1;
   margin: 0;
   color: #e88ca6;

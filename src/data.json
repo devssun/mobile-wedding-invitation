@@ -87,15 +87,15 @@
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 자가용",
-      "desc": "\n\uD83D\uDC49\uD83C\uDFFB 용인IC 진입 후 직진 고가도로를 지나 3분 거리 왼쪽에 위치"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 용인IC 진입 후 직진 고가도로를 지나 3분 거리 왼쪽에 위치"
     },
     {
-      "title": "\uD83D\uDCCD 지하철",
-      "desc": "\n\uD83D\uDC49\uD83C\uDFFB 용인에버라인 고진역 1번 출구"
+      "title": "\uD83D\uDCCD 대중교통",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 용인 경전철 고진역 1번 출구 도보 3분 거리\n\uD83D\uDC49\uD83C\uDFFB 버스 버스정류장 '고진역입구', 7, 9, 9-1, 5002A, 5002B, 5700A, 5700B"
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 웨딩홀 제1주차장, 제2주차장(도보 5분 거리, 셔틀 상시 운행) 제공\n"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 제1주차장 (페이지웨딩 또는 용인시 처인구 백옥대로 1238)\n\uD83D\uDC49\uD83C\uDFFB 제2주차장 용인시 처인구 경안천로 152-3(구,e삼성자동차학원), 셔틀버스 운행"
     }
   ],
   "emojis": [
